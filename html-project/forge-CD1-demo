@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Webpage-Demo</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+    <p>
+        Ciao, my name is Danielle Quaye and I am from Ghana! Currently, I am a student of Mount Holyoke College.
+
+    <ul>
+        <p> A list of my hobbies are:</p> <br>
+        <li> Love playing tennis</li>
+        <li> Love watching Formula 1 and motorsports in general. The aerofynmaics, weight and feel of the car is
+            impeccable </li>
+        <li> Love playing The Sims. Been playing it for sometime now and the mods keep getting better</li>
+    </ul><br>
+    I realy love spicy food so something I would definitely go for is Ghanaian food. My love for seafood prevails and I
+    love shrimp in particular.
+
+    </p>
+
+    <script src="" async defer></script>
+</body>
+
+</html>
