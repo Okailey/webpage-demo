@@ -1,0 +1,47 @@
+body {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family: "Aptos";
+}
+
+.paragraph1 {
+    font-size: 16px;
+    color: black;
+    text-align: justify;
+    margin: 20px;
+    padding: 10px;
+    line-height: 2;
+}
+
+.paragraph1::first-letter {
+    font-size: 30px;
+    font-weight: bold;
+    color: #33f5ff;
+    float: left;
+    line-height: 1;
+    vertical-align: top;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'sans-serif';
+}
+
+ul {
+    background: #07deff;
+    padding: 20px;
+    border-radius: 20%;
+}
+
+ul li {
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    margin: 5px;
+}
+
+p {
+    font-size: 16px;
+    color: black;
+    text-align: justify;
+
+}
